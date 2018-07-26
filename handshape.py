@@ -1,3 +1,4 @@
+#!~/miniconda/bin/python
 # coding: utf-8
 # Author: 881O
 # 2018-7-15
